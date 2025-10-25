@@ -9,4 +9,5 @@
 |         4|Infrared Reflection Sensors|QTR-8A Reflectance Sensor Array           |nieuw           |              |1      |         |
 |5         |18650 Li-ion Batterijen                 |Rechargeable Battery (3,7V - 19800mAh)|Nieuw            |            |2       |      |
 |6         |Batterijhouder                          |18650 Dubbele batterijhouder          |Nieuw            |1,70              |1       |1,70        |
-|7         |Batterijoplader                         |LiitoKala Lii-L2 3,7V 18650           |Nieuw            |12           |1       |      |12
+|7         |Batterijoplader                         |LiitoKala Lii-L2 3,7V 18650           |Nieuw            |12           |1      12     |
+|8        |hc-05                         |bluetooth moduile           |Nieuw            |5,9           |1       |5,9     |
