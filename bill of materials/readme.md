@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
-|         1|microcontroller|esp8266            |recup           |              |1      |         |
+|         1|microcontroller|arduino leonardo            |recup           |              |1      |         |
 |         2|H-brug|drv8833            |nieuw           |€1,86              |2      |€3,72         |
 |         3|Mini Micro Metal Gear Motor 50:1|6V DC Gear Motor           |nieuw           |€7,71              |2     |€15,42        |
 |         4|Infrared Reflection Sensors|QTR-8A Reflectance Sensor Array           |nieuw           |€12              |1      |€12         |
