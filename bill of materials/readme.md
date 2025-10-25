@@ -13,3 +13,7 @@
 |8        |hc-05                         |bluetooth module           |Nieuw            |€5,9           |1       |€5,9     |
 |9                 |Wielhouders                             |Micro Metal Gearmotor Bracket Pair    |Nieuw            |€2,9               |1       |€2,9       |
 |10                |Dupont-draadjes                         |20 male-female en 20 female female           |nieuw            |€1,5                  | 1     | €1,5           |
+|11                |weerstanden                        |           |recup            |/                 | 1     | /           |
+|12                |LED                       |           |recup            |/                 | 1     | /           |
+|13               |knoppen                      |           |recup            |/                 | 1     | /           |
+|14              |wielen|           |nieuw            |€0,32                 | 2     | €0,64           |
