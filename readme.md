@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino leonardo
 
-motors: 
+motors: Mini Micro Metal Gear Motor 50:1
 
-h-bridge:
+h-bridge:drv8833
 
-sensors:
+sensors: QTR8-A
 
-batteries:
+batteries: 18650 Li-ion
 
-wireless communication:
+wireless communication: hc-05
 
 distance sensor - motors:
 
