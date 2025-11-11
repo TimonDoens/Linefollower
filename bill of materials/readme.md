@@ -17,3 +17,4 @@
 |12                |LED                       |           |recup            |/                 | 1     | /           |
 |13               |knoppen                      |           |recup            |/                 | 1     | /           |
 |14              |wielen| D-gat rubber wiel          |nieuw            |€0,32                 | 2     | €0,64           |
+|15              |basisplaat karton                   |           |recup            |/                 | 1     | /           |
