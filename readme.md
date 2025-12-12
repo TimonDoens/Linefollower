@@ -1,6 +1,7 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+
+![IMG_7981](https://github.com/user-attachments/assets/aa7224e2-e3d2-4625-a65b-b439f34bb063)
 
 
 
@@ -19,9 +20,9 @@ batteries: 18650 Li-ion
 
 wireless communication: hc-05
 
-distance sensor - motors:
+distance sensor - motors: 8cm
 
-weight:
+weight: /
 
-speed: 
+speed: 0.52 m/s
 
