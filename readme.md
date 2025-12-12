@@ -12,7 +12,7 @@ microcontroller: Arduino leonardo
 
 motors: Mini Micro Metal Gear Motor 50:1
 
-h-bridge:drv8833
+h-bridge: drv8833
 
 sensors: QTR8-A
 
