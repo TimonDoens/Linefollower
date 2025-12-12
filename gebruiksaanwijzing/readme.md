@@ -27,6 +27,13 @@ Om de robot correct te kalibreren moet je deze eerst op een wit vlak plaatsen (w
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
+set cycle 5000
+set power 60 (niet te hoog zetten voor de eerste keer)  
+set diff 0,15 
+set kp 8 
+set ki 0 
+set kd 0 
 
+Als je de snelheid wilt verhogen zal kp waarschijnlijk moeten verhogen en ook kd een beetje groter maken kan handig zijn.
 ### start/stop button
-uitleg locatie + werking start/stop button
+Om de robot te starten en te stoppen geef je het commando run on of run off in. In sommige apps kan je hier ook een knop voor maken zodat het wat sneller gaat. 
