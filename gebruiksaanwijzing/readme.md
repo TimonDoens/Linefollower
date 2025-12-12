@@ -1,7 +1,7 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+In dir project maken we gebruik van een batterijhouder voor 2 batterijen. Op die manier kan je ze makkelijk verwijderen om ze op te laden. Opladen kan met een oplader die geschikt is voor deze batterijen (zie BOM).
 
 ### draadloze communicatie
 #### verbinding maken
