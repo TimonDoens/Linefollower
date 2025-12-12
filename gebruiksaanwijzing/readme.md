@@ -1,16 +1,18 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-In dir project maken we gebruik van een batterijhouder voor 2 batterijen. Op die manier kan je ze makkelijk verwijderen om ze op te laden. Opladen kan met een oplader die geschikt is voor deze batterijen (zie BOM).
+In dir project maken we gebruik van een batterijhouder voor 2 batterijen. Op die manier kan je ze makkelijk verwijderen om ze op te laden. Opladen kan met een oplader die geschikt is voor deze batterijen (zie BOM). Zorg steeds dat de batterijen voldoende opgeladen zijn zodat de motoren optimaal kunnen draaien.
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Voorzie de robot eerst van spanning door de batterijen aan te sluiten. De bluetooth module zou nu ook licht moeten geven. Verbind je apparaat(PC of android toestel) met de HC-05. Dit doe je door naar de bluetooth instellingen te gaan en op de HC-05 te klikken. Er zal een wachtwoord gevraagd worden, dit is meestal 1234. Als je verbonden bent kan je via elke serial communication app op je android of PC commando's versturen. Op PC raad ik simple serial terminal of putty aan, op android kan je de app serial bluetooth terminal gebruiken.
 
 #### commando's
-debug [on/off]  
-start  
-stop  
+De onderstaande commando's kunnen allemaal ingegeven worden in de serial terminal. Via de HC-05 zal de arduino deze instellingen overnemen.
+
+debug: bij het invoeren van dit commando krijg je alle parameters te zien die nu ingesteld zijn.  
+run on: laat de robot rijden.  
+run off: laat de robot stoppen.
 set cycle [µs]  
 set power [0..255]  
 set diff [0..1]  
@@ -21,7 +23,7 @@ calibrate black
 calibrate white  
 
 ### kalibratie
-uitleg kalibratie  
+Om de robot correct te kalibreren moet je deze eerst op een wit vlak plaatsen (wit papier in voldoende licht) en het commando calibrate white ingeven. Wacht even tot er 'done' staat. Zet de robot daarna op een zwart vlak en doe hetzelfde met calibrate black.
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
