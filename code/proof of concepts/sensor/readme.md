@@ -6,5 +6,5 @@ minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk va
 In dit project wordt de QTR-8A gebruikt. Met het arduino programma dat ook in deze map staat kunnen we de sensor uitlezen en de verkregen waardes zien in de seriële monitor. We maken gebruik van 6 van de 8 sensors aangezien de arduino leonardo maar 6 analoge ingangen heeft.
 # Testresultaten
 <img width="272" height="315" alt="image" src="https://github.com/user-attachments/assets/968aea77-7182-429a-b43a-446e7ab953b4" />
-#Schema
+# Schema
 Vcc is verbonden met de 5V, GND is verbonden met de GND van de arduino. De eerste 6 analoge pinnen zijn verbonden met A0 tot en met A5 op de Arduino.
